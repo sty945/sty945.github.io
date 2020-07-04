@@ -15,12 +15,12 @@ I received my Master's degree in [Beijing Forestry University](http://http://www
 - Knowledage Graph
 
 # Experience 
-## **Sogou Voice Interaction Center**
+## **[Sogou Voice Interaction Center](https://ai.sogou.com/)**
 - 2018/3/20 - 2019/5/20 
 - NLP Research Intern
 - Responsible for the advanced technology related to the language model of speech recognition in industry, and explored the application of related technologies to Sogou-related products based on Sogou zhiyin Engine.
 
-## **Institute of Software Chinese Academy of Sciences**
+## **[Institute of Software Chinese Academy of Sciences](http://www.is.cas.cn/)**
 - 2017/12/01 - 2018/3/15
 - Research Intern
 - It mainly participates in the data-related work in the horizontal and vertical projects of the laboratory
@@ -33,7 +33,7 @@ I received my Master's degree in [Beijing Forestry University](http://http://www
 
 # Self-evaluation
 - Outstanding physical and psychological qualities
-- ne of the 50 members of the 600,000 candidates in Anhui Province who were qualified for the final [selection of the China Air Force](http://www.mod.gov.cn/services/node_47002.htm) in 2013
+- One of the 50 members of the 600,000 candidates in Anhui Province who were qualified for the final [selection of the China Air Force](http://www.mod.gov.cn/services/node_47002.htm) in 2013
 
 <!---Activity and Service--->
 <!---Experience--->
