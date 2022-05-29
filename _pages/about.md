@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a engineer in the Institute of Information Engineering, Chinese Academy of Sciences  <br>
+I am currently working toward the PhD degree in the Institute of Information Engineering, Chinese Academy of Sciences, Beijing, China. <br>
 I received my Master's degree in [Beijing Forestry University](http://http://www.bjfu.edu.cn/) , China. 
 
 # Research
-- Language Model
 - Knowledage Graph
+- Graph Data Mining
 
 # Experience 
 ## **[Sogou Voice Interaction Center](https://ai.sogou.com/)**
